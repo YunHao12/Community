@@ -1,15 +1,15 @@
-Introduction
+### Introduction
 A community forum project
 
-Software Architecture
-Software Architecture Description: 
-Based on the Spring Boot framework;
-Database: MySQL, Redis;
-Persistence framework: MyBatis; 
-Messaging queue service provided by Kafka; 
+### Software Architecture
+Software Architecture Description:
+Based on the Spring Boot framework;    
+Database: MySQL, Redis;  
+Persistence framework: MyBatis;   
+Messaging queue service provided by Kafka;   
 Search functionality using Elasticsearch.
 
-Software Versions
+### Software Versions
 MySQL 8.0.16
 Maven 3.6.3
 Redis 3.0.504
